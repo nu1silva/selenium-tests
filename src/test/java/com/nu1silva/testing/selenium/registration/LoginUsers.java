@@ -28,7 +28,7 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class RegisterUsers {
+public class LoginUsers {
 
     private DriverManager driverManager = new DriverManager();
     private WebDriver driver = driverManager.getWebDriver("chrome");
